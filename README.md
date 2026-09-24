@@ -70,6 +70,9 @@ A drill-through table of every order with slicers for **date, customer, product 
   <img src="screenshots/04_transaction_details.png" alt="Transaction table" width="95%">
 </p>
 
+<p align="center">
+  <img src="screenshots/05_comparisonSalesprofitquantity.png" alt="Sales, profit and quantity comparison" width="80%">
+</p>
 ---
 
 ## 💡 Key Insights
